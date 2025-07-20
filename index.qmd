@@ -1,0 +1,23 @@
+---
+# My First Blog Post  
+Welcome to my blog! Here’s an R plot:  
+---
+
+```{r}
+plot(cars)
+
+```
+
+```{r}
+git init
+```
+
+```{r}
+
+```
+
+Here’s an expression from my recent work:
+
+$$
+P(X_n > X_{n-1}) = \frac{\alpha}{\alpha + \beta}
+$$
