@@ -1,23 +1,35 @@
 ---
-# My First Blog Post  
-Welcome to my blog! Here’s an R plot:  
+title: "S Sachdeva"
+format: html
 ---
 
-```{r}
-plot(cars)
+# 👋 Welcome
 
-```
+Hi, I’m **Sachin**, a PhD candidate in Statistics.
 
-```{r}
-git init
-```
+This is my personal academic website built using **Quarto + GitHub Pages**.
 
-```{r}
+## 🧑‍🎓 About Me
 
-```
+I'm in the final phase of my PhD at the University of Hyderabad.\
+My work focuses on stochastic modeling, Markov processes, and statistical estimation.
 
-Here’s an expression from my recent work:
+## 📚 Education
 
-$$
-P(X_n > X_{n-1}) = \frac{\alpha}{\alpha + \beta}
-$$
+-   **PhD in Statistics**, University of Hyderabad (2020–present)\
+-   **M.Sc. in Statistics**, XYZ University\
+-   **B.Sc. in Mathematics**, ABC College
+
+## 🧪 Research Interests
+
+-   Stationary & Markovian stochastic processes\
+-   Generalized exponential distributions\
+-   Bivariate modeling using copulas
+
+## 📄 CV
+
+You can [download my CV here](cv/Sachin_CV.pdf). *(Upload your PDF to `cv/` folder.)*
+
+## 📷 Profile Photo
+
+![Sachin's Photo](images/Gt%20pi.jpg){width="137"}
