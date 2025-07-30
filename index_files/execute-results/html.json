@@ -1,0 +1,17 @@
+{
+  "hash": "e69ad92f916675330a0be5bcfb655951",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\n# My First Blog Post  \nWelcome to my blog! Here’s an R plot:  \n---\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(cars)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n\n:::\n\n\n\n---\n\n---\n\nHere’s an expression from my recent work:\n\n$$\nP(X_n > X_{n-1}) = \\frac{\\alpha}{\\alpha + \\beta}\n$$\n\n\n\n::: {.cell}\n\n```{.quarto .cell-code}\n\n```\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

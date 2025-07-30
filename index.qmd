@@ -1,5 +1,5 @@
 ---
-title: "S Sachdeva"
+title: "Sachin Sachdeva"
 format: html
 ---
 
@@ -12,7 +12,7 @@ This is my personal academic website built using **Quarto + GitHub Pages**.
 ## 🧑‍🎓 About Me
 
 I'm in the final phase of my PhD at the University of Hyderabad.\
-My work focuses on stochastic modeling, Markov processes, and statistical estimation.
+My work focuses on stochastic modeling, Markov processes, Goodness of fit and statistical estimation.
 
 ## 📚 Education
 
